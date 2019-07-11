@@ -1,17 +1,16 @@
 # results
 
-1.  tmp_2c78d90
+1. tmp_2c78d90
 
-    * model: casesm; 
-    * commit: 2c78d90; 
-    * compset: FAMIPC5; 
-    * resolution: fd14_fd14; 
-    * levels: 35; 
-    * time: 197901-198701
-    * set:
-    
-···
-      
+   - model: casesm; 
+   - commit: 2c78d90; 
+   - compset: FAMIPC5; 
+   - resolution: fd14_fd14; 
+   - levels: 35; 
+   - time: 197901-198701
+   - set:
+
+   ```
       &phys_ctl_nl
         cam_chempkg            = 'trop_mam3'
         cam_physpkg            = 'cam5'
@@ -44,12 +43,6 @@
       ! eddy_scheme        = 'diag_TKE'      ! 'diag_TKE','MTKE', 'HB','HBR'
       !============================================================
       /
-      
-  ···
-      
-      
-    
-    
-      * diff with obs: https://czypku.github.io/cas-esm/l35/FAMIPC5/tmp_2c78d90/1979_1987/tmp_2c78d90-obs/
+   ```
 
-
+   - diff with obs: https://czypku.github.io/cas-esm/l35/FAMIPC5/tmp_2c78d90/1979_1987/tmp_2c78d90-obs/
