@@ -1,4 +1,4 @@
-# results updated to 20190712 by czy.
+# Results updated to 20190712 by czy.
 
 1.  tmp_2c78d90
 
