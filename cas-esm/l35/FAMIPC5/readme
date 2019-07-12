@@ -1,1 +1,2 @@
 rsync -arvz --delete /data/zhanghe/czy/work/diag_pack/cas-esm/work5.2_iapl35/diag/tmp_2c78d90 ./
+rsync -arvz --delete /data/zhanghe/czy/work/diag_pack/cas-esm/work5.2_iapl35/diag/tmp_2c78d90zmh ./
